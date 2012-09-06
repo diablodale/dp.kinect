@@ -9,6 +9,7 @@ Cycling '74 Max development environment to control and receive data from your Mi
 * It is based on the Microsoft Kinect SDK v1.5.
 * It will support multiple Kinects on the same PC.
 * It was developed and tested against Max 6.0.5. It is untested against earlier versions.
+* There are the same inlets and outlets as compared to my other external jit.openni. You can retype dp.kinect in the same max patcher box and quickly migrate to this external.
 * There is good compatibility with the output of the external as compared to my other external jit.openni. All output is supported and should be equivalent except the IRmap; raw infrared is not exposed by the Microsoft SDK v1.5. Additionally, the colormap is not yet supported by the Beta.
 * Many of the attribute names have changed as compared to jit.openni. However, you will find that there is usually an exact equivalent for an attribute you previously used. This change is intentional.
 
