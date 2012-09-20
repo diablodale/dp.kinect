@@ -10,7 +10,9 @@ Cycling '74 Max development environment to control and receive data from your Mi
 * It supports multiple Kinects on the same PC.
 * It was developed and tested against Max 6.0.7. It is untested against earlier versions.
 * There are the same inlets and outlets as compared to my other external jit.openni. You can retype dp.kinect in the same max patcher box and quickly migrate to this external.
-* There is good compatibility with the output of the external as compared to my other external jit.openni. All output is supported and should be equivalent except the IRmap; raw infrared is not exposed by the Microsoft SDK v1.5.
+* There is good compatibility with the output of the external as compared to my other external jit.openni. All output is supported and should be equivalent except the following two:  
+1) the IRmap; raw infrared is not exposed by the Microsoft SDK v1.5  
+2) orientation of joints is optionally available after the confidence value on the same message. It is in your choice of two formats: quat or 4x4 rotation matrix
 * Many of the attribute names have changed as compared to jit.openni. However, you will find that there is usually an exact equivalent for an attribute you previously used. This change is intentional.
 
 Known Issues
@@ -52,7 +54,7 @@ Any difference is a bug and I request you report it at https://github.com/diablo
 The externals available in the Beta has a limited lifespan; typically 4 weeks from the release date.
 The intention is to encourage frequent updating and feedback during the Beta period.
 
-Current Beta version is v0.4.6 with an expiration date of 17 Oct 2012.  
+Current Beta version is v0.4.9 with an expiration date of 20 Oct 2012.  
 **Scroll down** the following page to the Download Packages section!   
 Download is at **scroll down the page** https://github.com/diablodale/dp.kinect/downloads
 
