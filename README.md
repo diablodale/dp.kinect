@@ -18,7 +18,8 @@ Cycling '74 Max development environment to control and receive data from your Mi
 Known Issues
 ============
 
-* None at this time. I request you report any issues at https://github.com/diablodale/dp.kinect/issues
+* The @align attribute does not yet do anything.
+* I request you report any issues at https://github.com/diablodale/dp.kinect/issues
 
 Licensing
 =========
@@ -54,7 +55,7 @@ Any difference is a bug and I request you report it at https://github.com/diablo
 The externals available in the Beta has a limited lifespan; typically 4 weeks from the release date.
 The intention is to encourage frequent updating and feedback during the Beta period.
 
-Current Beta version is v0.4.9 with an expiration date of 20 Oct 2012.  
+Current Beta version is v0.5.0 with an expiration date of 27 Oct 2012.  
 **Scroll down** the following page to the Download Packages section!   
 Download is at **scroll down the page** https://github.com/diablodale/dp.kinect/downloads
 
