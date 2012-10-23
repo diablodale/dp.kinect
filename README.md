@@ -78,6 +78,6 @@ Any difference is a bug and I request you report it at https://github.com/diablo
 The externals available in the Beta has a limited lifespan; typically 4 weeks from the release date.
 The intention is to encourage frequent updating and feedback during the Beta period.
 
-Current Beta version is v0.5.5 with an expiration date of 30 Nov 2012.  
+Current Beta version is v0.5.6 with an expiration date of 30 Nov 2012.  
 **Scroll down** the following page to the Download Packages section!   
 Download is at **scroll down the page** https://github.com/diablodale/dp.kinect/downloads
