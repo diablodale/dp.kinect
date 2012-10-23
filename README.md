@@ -7,7 +7,7 @@
 	warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 ****************************************************************************
 
-Limited Beta documentation is available at the wiki https://github.com/diablodale/dp.kinect/wiki
+Documentation is available at the wiki https://github.com/diablodale/dp.kinect/wiki
 
 Initially written and tested using:
 - Windows 7 64-bit Service Pack 1
