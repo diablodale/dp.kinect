@@ -70,10 +70,10 @@ Here are examples which will likely require a paid license after the beta period
 Installation and Documentation
 ==============================
 
-During the Beta period, there is little documentation specific to dp.kinect.
-I recommend you reference the documentation for jit.openni and look at the descriptive
-information in the Max inspector. The output of the external should be nearly equivalent to jit.openni.
-Any difference is a bug and I request you report it at https://github.com/diablodale/dp.kinect/issues
+Documentation for dp.kinect is available at the wiki https://github.com/diablodale/dp.kinect/wiki,
+in the descriptive information readily
+available in the Max inspector for dp.kinect, or implied with the usage examples in the included
+demo patcher.
 
 The externals available in the Beta has a limited lifespan; typically 4 weeks from the release date.
 The intention is to encourage frequent updating and feedback during the Beta period.
