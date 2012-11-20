@@ -19,7 +19,7 @@ Most recently written and tested using:
 Features
 ============
 
-* It is based on the Microsoft Kinect SDK v1.5.
+* It is based on the Microsoft Kinect SDK.
 * It supports multiple Kinects on the same PC.
 * It was developed and tested against Max 6.0.7. It is untested against earlier versions.
 * There are the same inlets and outlets as compared to my other external jit.openni. You can retype dp.kinect in the same max patcher box and quickly migrate to this external.
