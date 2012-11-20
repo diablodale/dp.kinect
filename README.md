@@ -7,13 +7,13 @@
 	warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 ****************************************************************************
 
-Documentation is available at the wiki https://github.com/diablodale/dp.kinect/wiki
+Full setup and documentation is available at the wiki https://github.com/diablodale/dp.kinect/wiki
 
-Initially written and tested using:
+Most recently written and tested using:
 - Windows 7 64-bit Service Pack 1
 - Microsoft Visual C++ 2010 Express Version 10.0.40219.1 SP1Rel
-- Microsoft Kinect SDK v1.5
-- Max/MSP/Jitter 6.0.7 for Windows
+- Microsoft Kinect SDK v1.6
+- Max/MSP/Jitter 6.0.8 for Windows
 - Max/MSP/Jitter SDK 6.0.4 for Windows
 
 Features
@@ -78,6 +78,6 @@ demo patcher.
 The externals available in the Beta has a limited lifespan; typically 4 weeks from the release date.
 The intention is to encourage frequent updating and feedback during the Beta period.
 
-Current Beta version is v0.5.6 with an expiration date of 30 Nov 2012.  
+Current Beta version is v0.5.8 with an expiration date of 20 Dec 2012.  
 **Scroll down** the following page to the Download Packages section!   
 Download is at **scroll down the page** https://github.com/diablodale/dp.kinect/downloads
