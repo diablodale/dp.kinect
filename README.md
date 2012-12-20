@@ -19,12 +19,12 @@ Most recently written and tested using:
 Features
 ============
 
-* It is based on the Microsoft Kinect SDK.
+* It is based on the Microsoft Kinect SDK. You will need at least v1.5 to use this external.
 * It supports multiple Kinects on the same PC.
-* It was developed and tested against Max 6.0.7. It is untested against earlier versions.
+* It was developed and tested against Max 6.0.8. It is untested against earlier versions.
 * There are the same inlets and outlets as compared to my other external jit.openni. You can retype dp.kinect in the same max patcher box and quickly migrate to this external.
 * There is good compatibility with the output of the external as compared to my other external jit.openni. All output is supported and should be equivalent except the following two:  
-1) the IRmap; raw infrared is not exposed by the Microsoft SDK v1.5  
+1) the IRmap support of SDK v1.6 is not yet implemented in the external
 2) orientation of joints is optionally available after the confidence value on the same message. It is in your choice of two formats: quat or 4x4 rotation matrix
 * Many of the attribute names have changed as compared to jit.openni. However, you will find that there is usually an exact equivalent for an attribute you previously used. This change is intentional.
 
@@ -78,6 +78,6 @@ demo patcher.
 The externals available in the Beta has a limited lifespan; typically 4 weeks from the release date.
 The intention is to encourage frequent updating and feedback during the Beta period.
 
-Current Beta version is v0.5.8 with an expiration date of 20 Dec 2012.  
-**Scroll down** the following page to the Download Packages section!   
-Download is at **scroll down the page** https://github.com/diablodale/dp.kinect/downloads
+Current Beta version is v0.6.2 with an expiration date of 30 Jan 2013.
+You can download the current beta (dp.kinect v0.6.2 BETA) at
+http://hidale.com/wp-content/uploads/2012/09/dp.kinect-v0.6.2-BETA.zip
