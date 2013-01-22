@@ -1,7 +1,7 @@
 ****************************************************************************
   dp.kinect - a Cycling 74 Max Jitter external for Kinect based on the Microsoft Kinect SDK
 
-  Copyright (C) 2012 Dale Phurrough
+  Copyright (C) 2012-2013 Dale Phurrough
 
   dp.kinect is distributed WITHOUT ANY WARRANTY; without even the implied
 	warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
@@ -25,8 +25,7 @@ Quick Notes
 * Read the wiki https://github.com/diablodale/dp.kinect/wiki
 * It has the same inlets and outlets as compared to my other external jit.openni. You can retype dp.kinect in the same max patcher box and quickly migrate to this external.
 All output is supported and should be equivalent except the following two:  
-1) the IRmap support of SDK v1.6 is not yet implemented in the external
-2) orientation of joints is optionally available after the confidence value on the same message. It is in your choice of two formats: quat or 4x4 rotation matrix
+1) orientation of joints is optionally available after the confidence value on the same message. It is in your choice of two formats: quat or 4x4 rotation matrix
 * Many of the attribute names have changed as compared to jit.openni. However, you will find that there is usually an exact equivalent for an attribute you previously used. This change is intentional.
 * Did you read the wiki https://github.com/diablodale/dp.kinect/wiki?
 
@@ -80,6 +79,6 @@ demo patcher.
 The externals available in the Beta has a limited lifespan; typically 4 weeks from the release date.
 The intention is to encourage frequent updating and feedback during the Beta period.
 
-Current Beta version is v0.6.2 with an expiration date of 30 Jan 2013.
-You can download the current beta (dp.kinect v0.6.2 BETA) at
+Current Beta version is v0.6.4 with an expiration date of 28 Feb 2013.
+You can download the current beta (dp.kinect v0.6.4 BETA) at
 http://hidale.com/dp-kinect/#download
