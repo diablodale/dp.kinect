@@ -12,9 +12,9 @@ Full setup and documentation is available at the wiki https://github.com/diablod
 Most recently written and tested using:
 - Windows 7 64-bit Service Pack 1
 - Microsoft Visual C++ 2010 Express Version 10.0.40219.1 SP1Rel
-- Microsoft Kinect SDK v1.6
-- Max/MSP/Jitter 6.0.8 for Windows
-- Max/MSP/Jitter SDK 6.0.4 for Windows
+- Microsoft Kinect SDK v1.7
+- Max/MSP/Jitter 6.1.2 for Windows
+- Max/MSP/Jitter SDK 6.1.1 for Windows
 
 Quick Notes
 ============
@@ -79,6 +79,6 @@ demo patcher.
 The externals available in the Beta has a limited lifespan; typically 4 weeks from the release date.
 The intention is to encourage frequent updating and feedback during the Beta period.
 
-Current Beta version is v0.6.7 with an expiration date of 25 May 2013.
+Current Beta version is v0.7.0 with an expiration date of 27 June 2013.
 You can download the current beta at
 http://hidale.com/dp-kinect/#download
