@@ -21,7 +21,7 @@ Quick Notes
 
 * It is based on the Microsoft Kinect SDK. You will need at least v1.5 to use this external.
 * It supports multiple Kinects on the same PC.
-* It was developed and tested against Max 6.0.8. It is untested against earlier versions.
+* It was developed and tested against Max 6.1.2. It is untested against earlier versions.
 * Read the wiki https://github.com/diablodale/dp.kinect/wiki
 * It has the same inlets and outlets as compared to my other external jit.openni. You can retype dp.kinect in the same max patcher box and quickly migrate to this external.
 All output is supported and should be equivalent except the following two:  
