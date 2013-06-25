@@ -14,7 +14,7 @@ Most recently written and tested using:
 - Microsoft Visual C++ 2010 Express Version 10.0.40219.1 SP1Rel
 - Microsoft Kinect SDK v1.7
 - Max/MSP/Jitter 6.1.2 for Windows
-- Max/MSP/Jitter SDK 6.1.1 for Windows
+- Max/MSP/Jitter SDK 6.0.4 for Windows
 
 Quick Notes
 ============
@@ -25,9 +25,9 @@ Quick Notes
 * Read the wiki https://github.com/diablodale/dp.kinect/wiki
 * It has the same inlets and outlets as compared to my other external jit.openni. You can retype dp.kinect in the same max patcher box and quickly migrate to this external.
 All output is supported and should be equivalent except the following two:  
-1) orientation of joints is optionally available after the confidence value on the same message. It is in your choice of two formats: quat or 4x4 rotation matrix
-* Many of the attribute names have changed as compared to jit.openni. However, you will find that there is usually an exact equivalent for an attribute you previously used. This change is intentional.
-* Did you read the wiki https://github.com/diablodale/dp.kinect/wiki?
+1) orientation of joints is optionally available after the confidence value on the same message. It is in your choice of two formats: quat or 4x4 rotation matrix  
+2) Many of the attribute names have changed as compared to jit.openni. However, you will find that there is usually an exact equivalent for an attribute you previously used. This change is intentional.
+* Did you read the wiki? You really should read the wiki https://github.com/diablodale/dp.kinect/wiki
 
 Known Issues
 ============
