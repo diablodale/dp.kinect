@@ -1,7 +1,7 @@
 ****************************************************************************
   dp.kinect - a Cycling 74 Max Jitter external for Kinect based on the Microsoft Kinect SDK
 
-  Copyright (C) 2012-2013 Dale Phurrough
+  Copyright (C) 2011-2013 Dale Phurrough
 
   dp.kinect is distributed WITHOUT ANY WARRANTY; without even the implied
 	warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
@@ -13,7 +13,7 @@ Most recently written and tested using:
 - Windows 7 64-bit Service Pack 1
 - Microsoft Visual C++ 2010 Express Version 10.0.40219.1 SP1Rel
 - Microsoft Kinect SDK v1.7
-- Max/MSP/Jitter 6.1.2 for Windows
+- Max/MSP/Jitter 6.x for Windows
 - Max/MSP/Jitter SDK 6.0.4 for Windows
 
 Quick Notes
@@ -21,7 +21,7 @@ Quick Notes
 
 * It is based on the Microsoft Kinect SDK. You will need at least v1.5 to use this external.
 * It supports multiple Kinects on the same PC.
-* It was developed and tested against Max 6.1.2. It is untested against earlier versions.
+* It was primarily developed and tested against Max 6.x. It has only been casually tested against Max 5.1.9.
 * Read the wiki https://github.com/diablodale/dp.kinect/wiki
 * It has the same inlets and outlets as compared to my other external jit.openni. You can retype dp.kinect in the same max patcher box and quickly migrate to this external.
 All output is supported and should be equivalent except the following two:  
@@ -79,6 +79,6 @@ demo patcher.
 The externals available in the Beta has a limited lifespan; typically 4 weeks from the release date.
 The intention is to encourage frequent updating and feedback during the Beta period.
 
-Current Beta version is v0.7.0 with an expiration date of 27 June 2013.
+Current Beta version is v0.8.0 with an expiration date of 25 July 2013.
 You can download the current beta at
 http://hidale.com/dp-kinect/#download
