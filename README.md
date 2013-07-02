@@ -79,6 +79,5 @@ demo patcher.
 The externals available in the Beta has a limited lifespan; typically 4 weeks from the release date.
 The intention is to encourage frequent updating and feedback during the Beta period.
 
-Current Beta version is v0.8.1 with an expiration date of 25 July 2013.
 You can download the current beta at
 http://hidale.com/dp-kinect/#download
