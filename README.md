@@ -11,10 +11,10 @@ Full setup and documentation is available at the wiki https://github.com/diablod
 
 Most recently written and tested using:
 - Windows 7 64-bit Service Pack 1
-- Microsoft Visual C++ 2010 Express Version 10.0.40219.1 SP1Rel
+- Microsoft Visual C++ 2012 Express Update 3
 - Microsoft Kinect SDK v1.7
 - Max/MSP/Jitter 6.x for Windows
-- Max/MSP/Jitter SDK 6.0.4 for Windows
+- Max/MSP/Jitter SDK 6.1.3 for Windows
 
 Quick Notes
 ============
