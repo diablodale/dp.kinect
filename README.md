@@ -44,7 +44,8 @@ All output is supported and should be equivalent except the following two:
 Known Issues
 ============
 
-* I request you report any issues at https://github.com/diablodale/dp.kinect/issues
+* The 3D coordinates for facetracking are not rotated by gravity or elevation of the Kinect. This feature will be added in a future release.
+* I request you report any other issues at https://github.com/diablodale/dp.kinect/issues
 
 Licensing and Terms of Use
 ==========================
