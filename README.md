@@ -1,7 +1,7 @@
 ****************************************************************************
   dp.kinect - a Cycling 74 Max Jitter external for Kinect based on the Microsoft Kinect SDK
 
-	Copyright (C) 2011-2013 Dale Phurrough
+	Copyright (C) 2011-2014 Dale Phurrough
 	All rights reserved except for those documented in the dp.kinect terms at http://hidale.com.
 	dp.kinect is distributed WITHOUT ANY WARRANTY; without even the implied
 	warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
@@ -89,7 +89,7 @@ in the descriptive information readily
 available in the Max inspector for dp.kinect, or implied with the usage examples in the included
 demo patcher.
 
-The externals available in the Beta has a limited lifespan; typically 4 weeks from the release date.
+The externals available in the Beta has a limited lifespan; typically 2-4 weeks from the release date.
 The intention is to encourage frequent updating and feedback during the Beta period.
 
 You can download the current beta at
