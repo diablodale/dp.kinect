@@ -36,6 +36,7 @@ Quick Notes
 Known Issues
 ============
 
+* The 3D coordinates for facetracking are not rotated by gravity or elevation of the Kinect. This feature will be added in a future release.
 * I request you report any issues at https://github.com/diablodale/dp.kinect/issues
 
 Licensing and Terms of Use
