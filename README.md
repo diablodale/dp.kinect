@@ -10,7 +10,7 @@
 Full setup and documentation is available at the wiki https://github.com/diablodale/dp.kinect/wiki
 
 Most recently written and tested using:
-- Windows 7 64-bit Service Pack 1
+- Windows 8.1 64-bit
 - Microsoft Visual C++ 2012 Express Version 11.0.61030.00 Update 4
 - Microsoft Kinect SDK v1.7
 - Max/MSP/Jitter 6.1.7 for Windows
@@ -53,7 +53,7 @@ for your evaluation and non-commercial use. You may not modify, distribute, tran
 license, decompile, create derivative works from, transfer, or sell any information, software,
 products or services obtained from or with the use of this software. I reserve the right to update
 these terms at any time during the beta period. The most current version of these terms can be
-viewed on this same web page. And…relax…I will be generous as time goes forward.
+viewed on this same web page.
 
 I do support creative endeavors and artists. I am an artist myself. As such, I believe that artists
 should be compensated for their work. No starving artists! When an artist builds on the work of
