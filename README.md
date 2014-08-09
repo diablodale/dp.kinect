@@ -20,21 +20,20 @@ Quick Notes
 Known Issues
 ============
 
-* The 3D coordinates for facetracking are not rotated by gravity or elevation of the Kinect. This feature will be added in a future release.
-* I request you report any issues at https://github.com/diablodale/dp.kinect/issues
+Please visit the wiki at https://github.com/diablodale/dp.kinect/wiki
 
 Licensing, Terms of Use, Conditions, and Warranty
 ==============================
 
 Please visit http://hidale.com/terms/ for all licensing, terms of use, conditions, and warranty information.
 
-Installation and Documentation
+Setup Guide and Documentation
 ==============================
 
-Documentation for dp.kinect is available at the wiki https://github.com/diablodale/dp.kinect/wiki,
-in the descriptive information readily available in the Max inspector for dp.kinect, or implied
-with the usage examples in the included demo patcher.
+Please visit the wiki at https://github.com/diablodale/dp.kinect/wiki for setup and reference documentation.
+You can also find information in the Max inspector when selecting dp.kinect or implied
+with the usage examples in the dp.kinect ZIP download.
 
-The registration key (trial.dpreg) included with this download grants you a 14 day trial period.
+The registration key (trial.dpreg) included with the download grants you a 14 day trial period.
 
 You can download the current version at http://hidale.com/shop/dp-kinect/#download
