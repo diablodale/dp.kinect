@@ -6,7 +6,7 @@
 
 Download and feature list of dp.kinect at http://hidale.com/shop/dp-kinect/#download
 
-Full setup and documentation is available at the wiki https://github.com/diablodale/dp.kinect/wiki
+Setup guide and refence documentation is at the wiki https://github.com/diablodale/dp.kinect/wiki
 
 Quick Notes
 ============
@@ -30,8 +30,8 @@ Please visit http://hidale.com/terms/ for all licensing, terms of use, condition
 Setup Guide and Documentation
 ==============================
 
-Please visit the wiki at https://github.com/diablodale/dp.kinect/wiki for setup and reference documentation.
-You can also find information in the Max inspector when selecting dp.kinect or implied
+Please visit the wiki at https://github.com/diablodale/dp.kinect/wiki for the setup guide and reference
+documentation. You can also find information in the Max inspector when selecting dp.kinect or implied
 with the usage examples in the dp.kinect ZIP download.
 
 The registration key (trial.dpreg) included with the download grants you a 14 day trial period.
