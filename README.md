@@ -1,5 +1,5 @@
 ****************************************************************************
-  dp.kinect - rich Kinect for Windows features in Cycling '74 Max
+  dp.kinect - Microsoft Kinect v1 extension for Cycling '74 Max
 
   Copyright (C) 2012-2014 Dale Phurrough
 ****************************************************************************
