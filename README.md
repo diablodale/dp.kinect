@@ -1,10 +1,10 @@
 ****************************************************************************
   dp.kinect - Microsoft Kinect v1 extension for Cycling '74 Max
 
-  Copyright (C) 2012-2014 Dale Phurrough
+  Copyright (C) 2012-2019 Dale Phurrough
 ****************************************************************************
 
-Download and feature list of dp.kinect at http://hidale.com/shop/dp-kinect/#download
+Download and feature list of dp.kinect at https://hidale.com/shop/dp-kinect/#download
 
 Setup guide and refence documentation is at the wiki https://github.com/diablodale/dp.kinect/wiki
 
@@ -25,7 +25,7 @@ Please visit the wiki at https://github.com/diablodale/dp.kinect/wiki
 Licensing, Terms of Use, Conditions, and Warranty
 ==============================
 
-Please visit http://hidale.com/terms/ for all licensing, terms of use, conditions, and warranty information.
+Please visit https://hidale.com/terms/ for all licensing, terms of use, conditions, and warranty information.
 
 Setup Guide and Documentation
 ==============================
@@ -36,4 +36,4 @@ with the usage examples in the dp.kinect ZIP download.
 
 The registration key (trial.dpreg) included with the download grants you a 14 day trial period.
 
-You can download the current version at http://hidale.com/shop/dp-kinect/#download
+You can download the current version at https://hidale.com/shop/dp-kinect/#download
