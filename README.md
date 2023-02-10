@@ -1,39 +1,19 @@
-****************************************************************************
-  dp.kinect - Microsoft Kinect v1 extension for Cycling '74 Max
+# dp.kinect
 
-  Copyright (C) 2012-2019 Dale Phurrough
-****************************************************************************
+<img align="right" src="https://user-images.githubusercontent.com/679350/218186635-87d19f10-521b-4dc2-a239-850e8b065a46.jpg" alt="Kinect v1"/>
 
-Download and feature list of dp.kinect at https://hidale.com/shop/dp-kinect/#download
+dp.kinect
+is a plugin for [Cycling '74 Max](https://cycling74.com/) to use your
+[Microsoft Kinect v1](https://learn.microsoft.com/en-us/previous-versions/windows/kinect-1.8/hh855355(v=ieb.10)) (XBox 360)
+sensor on your Windows computer.
 
-Setup guide and refence documentation is at the wiki https://github.com/diablodale/dp.kinect/wiki
+Top features include depth, color video, body tracking, and point clouds.
 
-Quick Notes
-============
+## Download
 
-* Extensive features including: depths, color images, skeletal tracking, face tracking, sound tracking, speech recognition, point clouds, accelerometer, multiple Kinects, and more…
-* It is primarily developed and tested against Max 6.x for 32 and 64-bit platforms.
-* It is based on the official Microsoft Kinect platform. You will need at least v1.5.2 of the Kinect runtime/drivers to use this external.
-* Generally compatible with jit.openni making migration to dp.kinect easy
-* Did you read the wiki https://github.com/diablodale/dp.kinect/wiki?
+Get a [download, trial, or license](https://hidale.com/shop/dp-kinect/)
+from the store.
 
-Known Issues
-============
+## Setup
 
-Please visit the wiki at https://github.com/diablodale/dp.kinect/wiki
-
-Licensing, Terms of Use, Conditions, and Warranty
-==============================
-
-Please visit https://hidale.com/terms/ for all licensing, terms of use, conditions, and warranty information.
-
-Setup Guide and Documentation
-==============================
-
-Please visit the wiki at https://github.com/diablodale/dp.kinect/wiki for the setup guide and reference
-documentation. You can also find information in the Max inspector when selecting dp.kinect or implied
-with the usage examples in the dp.kinect ZIP download.
-
-The registration key (trial.dpreg) included with the download grants you a 14 day trial period.
-
-You can download the current version at https://hidale.com/shop/dp-kinect/#download
+Setup guide, tutorials, and documentation at [docs.hidale.com](https://docs.hidale.com).
